@@ -26,3 +26,12 @@ li a {
 li a:hover {
   color: #007bff;
 }
+
+li a.active {
+  color: #007bff;
+}
+
+.error-txt {
+  color: red;
+  font-size: 14px;
+}
